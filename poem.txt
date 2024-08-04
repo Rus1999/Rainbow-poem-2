@@ -4,6 +4,7 @@ Purlple
 Pink
 Orange
 Blue
+Indigo
 Green
 Yellow
 Red
